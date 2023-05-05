@@ -12,3 +12,4 @@ script uses the PyAutoGUI library for simulating keyboard and mouse actions, and
 each line does. 
 
 To make it work, you have to move your pointer to the search bar
+![preview](https://github.com/fspofficial/bing-rewards-py/blob/f4a8e303ee25d22b84c992a26cb44d8bd27565a3/preview.gif)
