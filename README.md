@@ -10,3 +10,5 @@ specified, but it can be used for various purposes such as testing, automation, 
 script uses the PyAutoGUI library for simulating keyboard and mouse actions, and it contains a list of 
 80 keywords related to Python programming. The code is commented to provide a clear understanding of what
 each line does. 
+
+To make it work, you have to move your pointer to the search bar
